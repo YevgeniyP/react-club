@@ -10,7 +10,10 @@ export default {
       "main-green": "#7AC751",
       "primary-gray": "#555555",
       "secondary-gray": "#515151",
+      "menu-gray-bg": "#F7F8FA",
       white: "#ffffff",
+      "text-gray": "#757575",
+      "text-black": "#11142D",
     },
     extend: {
       fontFamily: {
