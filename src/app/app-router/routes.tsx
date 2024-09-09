@@ -1,6 +1,6 @@
+import { MainLayoutLazy } from "@/layouts";
+import { ShopPageLazy } from "@/pages";
 import { createBrowserRouter, Navigate } from "react-router-dom";
-import { MainLayoutLazy } from "../../layouts";
-import { ShopPageLazy } from "../../pages";
 
 export const routes = createBrowserRouter([
   {

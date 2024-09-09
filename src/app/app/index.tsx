@@ -1,5 +1,5 @@
-import AppRouter from "./app-router";
-import AppStore from "./app-store";
+import AppRouter from "../app-router";
+import AppStore from "../app-store";
 
 export default function App() {
   return (
